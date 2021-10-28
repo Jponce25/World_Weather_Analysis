@@ -11,7 +11,7 @@ Then, using the Google Places API, the name of the first hotel result for each c
 Finally, by choosing 4 cities from our filter we can create maps with a travel route for the selected cities.
 
 ## Search Result View
-![](https://github.com/Jponce25/Election_Analysis/blob/1abab17e1a8a015fe71b7d77a430fa9cda1658b6/Resources/Imagen3.png)
+![](https://github.com/Jponce25/World_Weather_Analysis/blob/8ef8cfb6b3c2216da11a47d85940afe1cea14d9c/Vacation_Search/WeatherPy_vacation_map.png)
 
 ## Itinary Result View
-![](https://github.com/Jponce25/Election_Analysis/blob/1abab17e1a8a015fe71b7d77a430fa9cda1658b6/Resources/Imagen3.png)
+![](https://github.com/Jponce25/World_Weather_Analysis/blob/8ef8cfb6b3c2216da11a47d85940afe1cea14d9c/Vacation_Itinerary/WeatherPy_travel_map.png)
