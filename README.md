@@ -13,5 +13,5 @@ Finally, by choosing 4 cities from our filter we can create maps with a travel r
 ## Search Result View
 ![](https://github.com/Jponce25/World_Weather_Analysis/blob/8ef8cfb6b3c2216da11a47d85940afe1cea14d9c/Vacation_Search/WeatherPy_vacation_map.png)
 
-## Itinary Result View
+## Itinerary Result View
 ![](https://github.com/Jponce25/World_Weather_Analysis/blob/8ef8cfb6b3c2216da11a47d85940afe1cea14d9c/Vacation_Itinerary/WeatherPy_travel_map.png)
